@@ -1,0 +1,44 @@
+.abtn{
+    background-color:grey;
+    color:rgb(16, 16, 157);
+    padding:12px;
+    font-weight:bold;
+    border:12px solid grey;
+    border-radius:12px grey;
+}
+
+.abtn:hover{
+    background-color:rgb(16, 16, 157);
+    color:grey;
+    padding:12px;
+    font-weight:bold;
+    border:12px solid rgb(16, 16, 157);
+    border-radius:12px rgb(16, 16, 157);
+}
+
+ul{
+    display:inline-block;
+    width:auto;
+   
+}
+.ansdiv {
+    display:inline-block;
+    width:auto;
+}
+.ansdiv > ul> li {
+    display:inline-block;
+    width:auto;
+    padding:12px;
+}
+
+.aa{
+    margin:15px;
+    width:auto;
+}
+table{
+    text-align:center;
+    width:100%;
+}
+td {
+    vertical-align: top;
+}
